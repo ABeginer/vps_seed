@@ -1,0 +1,8 @@
+# Environment secrets
+.env
+*.env.local
+
+# Temporary files & logs
+*.log
+scratch/
+test seed/
